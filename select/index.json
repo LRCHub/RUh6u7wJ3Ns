@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "Spirit in the Sky",
+  "base_artist": "Norman Greenbaum",
+  "createdAt": "2026-02-15T12:35:28.772903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/01_Spirit_in_the_Sky_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "KEiiNO",
+      "has_synced": true,
+      "path": "select/02_Spirit_in_the_Sky_KEiiNO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/03_Spirit_in_the_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "KEiiNO",
+      "has_synced": true,
+      "path": "select/04_Spirit_In_The_Sky_KEiiNO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/05_Spirit_In_The_Sky_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SPIRIT IN THE SKY",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/06_SPIRIT_IN_THE_SKY_Various.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "KEiiNO",
+      "has_synced": true,
+      "path": "select/07_Spirit_in_the_Sky_KEiiNO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/08_Spirit_in_the_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "KEiiNO",
+      "has_synced": true,
+      "path": "select/09_Spirit_in_the_Sky_KEiiNO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/10_Spirit_In_The_Sky_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/11_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/12_Spirit_in_the_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/13_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Doctor",
+      "has_synced": true,
+      "path": "select/14_Spirit_in_the_Sky_Doctor.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/15_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spirit In the Dark",
+      "artist": "B.B. King feat. Diane Schuur",
+      "has_synced": false,
+      "path": "select/16_Spirit_In_the_Dark_B.B._King_feat._Diane_Schuur.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spirit In The Dark [with Diane Schuur]",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/17_Spirit_In_The_Dark_[with_Diane_Schuur]_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Spirit in the Night",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/18_Spirit_in_the_Night_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/19_Spirit_in_the_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/20_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/21_Spirit_In_The_Sky_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/22_Spirit_in_the_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Spirit in the Sky",
+      "artist": "William Shatner",
+      "has_synced": false,
+      "path": "select/23_Spirit_in_the_Sky_William_Shatner.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Spirit In The Sky - Shatner, William \u0000 Frampton, Peter",
+      "artist": "William Shatner",
+      "has_synced": false,
+      "path": "select/24_Spirit_In_The_Sky_-_Shatner,_William_\u0000_Frampton,_Peter_William_Shatner.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/25_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": false,
+      "path": "select/pl_01_Spirit_in_the_Sky_Norman_Greenbaum.txt"
+    }
+  ]
+}
